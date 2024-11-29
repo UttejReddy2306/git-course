@@ -1,1 +1,2 @@
-add and remove users and change the users
+add and remove users and change the users.
+lets resolve the conflicts.
