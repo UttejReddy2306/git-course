@@ -1,2 +1,2 @@
-add and remove users and change the users.
+add and remove users and change the stakeholders.
 lets resolve the conflicts.
